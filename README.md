@@ -1,9 +1,3 @@
-# SFDX App
+# Ursus Park sample app for Trailhead project Build Flexible Apps with Lightning Web Components
 
-## Dev, Build and Test
 
-## Resources
-
-## Description of Files and Directories
-
-## Issues
